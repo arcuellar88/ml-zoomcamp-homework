@@ -1,0 +1,14 @@
+docker pull agrigorev/zoomcamp-model:2025
+2025: Pulling from agrigorev/zoomcamp-model
+59e22667830b: Pull complete 
+19f81082f6f0: Pull complete 
+799df5177ae2: Pull complete 
+66cd357cf7a1: Pull complete 
+760c2b9cc6ee: Pull complete 
+816e9c0578b5: Pull complete 
+Digest: sha256:14d79fde0bbf078eb18c99c2bd007205917b758ec11060b2994963a1e485c2ae
+Status: Downloaded newer image for agrigorev/zoomcamp-model:2025
+docker.io/agrigorev/zoomcamp-model:2025
+@arcuellar88 ➜ /workspaces/ml-zoomcamp-homework/05-deployment/hw5 (main) $ docker image ls
+REPOSITORY                 TAG       IMAGE ID       CREATED      SIZE
+agrigorev/zoomcamp-model   2025      4a9ecc576ae9   5 days ago   121MB
